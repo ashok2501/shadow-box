@@ -1,0 +1,90 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.main
+{
+    color: white;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.main h1
+{
+color: white;
+}
+.frist h1
+{
+    color: blue;
+    text-align: center;
+    margin-top: 10px;
+}
+.frist p
+{
+    color:black;
+    text-align: center;
+}
+.main ul
+{
+    display: flex;
+    list-style: none;
+}
+.main ul a
+{
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+}
+.Albumexample
+{
+    display: flex;
+    align-items: center;
+    margin: auto;
+
+}
+.head{
+    margin-top: 10PX;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+    
+}
+.image p{
+    width: 200px;
+    
+}
+button.ashok {
+    padding: 5px 10px;
+    margin: 5px 5px 0 0;
+}
+.action 
+{
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding-top: 20px;
+    
+}
+.action a
+{
+ color: white ;
+text-decoration: none;
+background-color: blue;
+padding: 05px;
+border-radius: 05px;
+}
+.testname{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.frist{
+    text-align: center;
+}
